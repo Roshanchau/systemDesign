@@ -150,7 +150,6 @@ Calling `leak()` before returning the size also ensures the value reflects the e
 
 ![Leaky Bucket System Design](./leakyBucket.png)
 
-Place `leaky_bucket_system_design.png` in the same directory as this Markdown file.
 
 # Resources
 

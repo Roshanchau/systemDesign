@@ -4,7 +4,7 @@ import threading;
 class LeakyBucketAglo:
     def __init__(self, capacity: int, leakRate: float):
         self.capacity= capacity;
-        self.leakRate= leakRate; #leak rate in req/sec
+        self.leakRate= leakRate; #leak rate in\ req/sec
         self.bucketSize= 0;
         self.lastLeak= time.time();
         self.lock= threading.Lock();

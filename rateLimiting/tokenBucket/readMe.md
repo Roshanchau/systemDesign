@@ -93,7 +93,6 @@ It is especially useful where **burst traffic is acceptable but controlled over 
 
 ![Token Bucket System Design](./tokenBucket.png)
 
-*(Place your diagram image in the same directory as this markdown file)*
 
 ---
 
