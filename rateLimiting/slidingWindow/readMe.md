@@ -160,7 +160,7 @@ It is preferred when smoother and fairer rate limiting is required.
 
 ## System Design Diagram
 
-![Sliding Window System Design](./slidingWindow.png)
+![Sliding Window System Design](./slidingwindow.png)
 
 ---
 
